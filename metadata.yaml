@@ -1,0 +1,50 @@
+_repo: Household-Stories-by-the-Brothers-Grimm_19068
+contributor:
+  illustrator:
+    agent_name: Crane, Walter
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7195'
+    url: http://www.gutenberg.org/2009/agents/7195
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+  translator:
+    agent_name: Crane, Lucy
+    birthdate: 1842
+    deathdate: 1882
+    gutenberg_agent_id: '8444'
+    url: http://www.gutenberg.org/2009/agents/8444
+covers:
+- cover_type: archival
+  image_path: 19068/19068-h/images/illus-010-title.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  authors:
+  - agent_name: Grimm, Jacob
+    alias: Grimm, Jacob Ludwig Carl
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '971'
+    url: http://www.gutenberg.org/2009/agents/971
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
+  - agent_name: Grimm, Wilhelm
+    alias: Grimm, Wilhelm Carl
+    birthdate: 1786
+    deathdate: 1859
+    gutenberg_agent_id: '972'
+    url: http://www.gutenberg.org/2009/agents/972
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2006-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- '!lcc:PT'
+- '!lcsh:Fairy tales -- Germany'
+title: Household Stories by the Brothers Grimm
+url: http://www.gutenberg.org/ebooks/19068
