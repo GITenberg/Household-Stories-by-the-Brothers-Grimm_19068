@@ -18,6 +18,11 @@ covers:
   image_path: 19068/19068-h/images/illus-010-title.jpg
   rights: Public domain in the USA.
   rights_url: http://creativecommons.org/about/pdm
+- attribution: Kathryn Delaney, 2015
+  cover_type: original
+  image_path: cover.jpg
+  rights: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+  rights_url: https://creativecommons.org/licenses/by-nc/4.0/
 creator:
   authors:
   - agent_name: Grimm, Jacob
