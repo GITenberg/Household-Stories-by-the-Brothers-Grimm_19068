@@ -25,13 +25,6 @@ covers:
   rights_url: https://creativecommons.org/licenses/by-nc/4.0/
 creator:
   authors:
-  - agent_name: Grimm, Jacob
-    alias: Grimm, Jacob Ludwig Carl
-    birthdate: 1785
-    deathdate: 1863
-    gutenberg_agent_id: '971'
-    url: http://www.gutenberg.org/2009/agents/971
-    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
   - agent_name: Grimm, Wilhelm
     alias: Grimm, Wilhelm Carl
     birthdate: 1786
@@ -39,6 +32,13 @@ creator:
     gutenberg_agent_id: '972'
     url: http://www.gutenberg.org/2009/agents/972
     wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
+  - agent_name: Grimm, Jacob
+    alias: Grimm, Jacob Ludwig Carl
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '971'
+    url: http://www.gutenberg.org/2009/agents/971
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2006-08-17'
 gutenberg_type: Text
@@ -49,7 +49,7 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Fairy tales -- Germany'
-- '!lcc:PT'
+- '!lcsh: Fairy tales -- Germany'
+- '!lcc: PT'
 title: Household Stories by the Brothers Grimm
 url: http://www.gutenberg.org/ebooks/19068
