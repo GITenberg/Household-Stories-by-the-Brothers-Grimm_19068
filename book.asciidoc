@@ -1666,11 +1666,11 @@ image:images/illus-053.jpg[53,title="53"]
 
 '''''
 
-image:images/illus-055.jpg["FAITHFUL JOHN: IT HAPPENED, AS THEY WERE
+image:images/illus-055.jpg[FAITHFUL JOHN - &quot;IT HAPPENED, AS THEY WERE
 STILL JOURNEYING ON THE OPEN SEA, THAT FAITHFUL JOHN, AS HE SAT IN THE
 FORE PART OF THE SHIP, & MADE MUSIC, CAUGHT SIGHT OF THREE RAVENS FLYING
 OVERHEAD. THEN HE STOPPED PLAYING & LISTENED TO WHAT THEY SAID TO ONE
-ANOTHER",title="FAITHFUL JOHN: IT HAPPENED, AS THEY WERE STILL JOURNEYING ON THE OPEN SEA, THAT FAITHFUL JOHN, AS HE SAT IN THE FORE PART OF THE SHIP, & MADE MUSIC, CAUGHT SIGHT OF THREE RAVENS FLYING OVERHEAD. THEN HE STOPPED PLAYING & LISTENED TO WHAT THEY SAID TO ONE ANOTHER"]
+ANOTHER&quot;,title="FAITHFUL JOHN - &quot;IT HAPPENED, AS THEY WERE STILL JOURNEYING ON THE OPEN SEA, THAT FAITHFUL JOHN, AS HE SAT IN THE FORE PART OF THE SHIP, & MADE MUSIC, CAUGHT SIGHT OF THREE RAVENS FLYING OVERHEAD. THEN HE STOPPED PLAYING & LISTENED TO WHAT THEY SAID TO ONE ANOTHER&quot;"]
 
 '''''
 
@@ -2829,9 +2829,9 @@ loved her very much, thought to himself,
 
 "Rather than lose my wife I will get some rampion, cost what it will."
 
-image:images/illus-086.jpg[RAPUNZEL - "O RAPUNZEL, RAPUNZEL! LET DOWN
+image:images/illus-086.jpg[RAPUNZEL - &quot;O RAPUNZEL, RAPUNZEL! LET DOWN
 THINE
-HAIR.",title="RAPUNZEL - "O RAPUNZEL, RAPUNZEL! LET DOWN THINE HAIR.""]
+HAIR.&quot;,title="RAPUNZEL - &quot;O RAPUNZEL, RAPUNZEL! LET DOWN THINE HAIR.&quot;"]
 
 So in the twilight he climbed over the wall into the witch's garden,
 plucked hastily a handful of rampion and brought it to his wife. She
@@ -3709,9 +3709,9 @@ skin.,title="Sing every one, My story is done, And look! round the house There r
 
 '''''
 
-image:images/illus-109.jpg[THE WHITE SNAKE - "THEY DIVIDED THE APPLE OF
+image:images/illus-109.jpg[THE WHITE SNAKE - &quotTHEY DIVIDED THE APPLE OF
 LIFE AND ATE IT
-TOGETHER.",title="THE WHITE SNAKE - "THEY DIVIDED THE APPLE OF LIFE AND ATE IT TOGETHER.""]
+TOGETHER.&quot;,title="THE WHITE SNAKE - &quot;THEY DIVIDED THE APPLE OF LIFE AND ATE IT TOGETHER.&quot;"]
 
 '''''
 
@@ -5138,10 +5138,10 @@ out to her,
 "Oh, take me out, take me out, or I shall burn; I am baked enough
 already!"
 
-image:images/illus-146.jpg[MOTHER HULDA - "THEN THE GIRL WENT BACK AGAIN
+image:images/illus-146.jpg[MOTHER HULDA - &quot;THEN THE GIRL WENT BACK AGAIN
 TO THE WELL NOT KNOWING WHAT TO DO, AND IN THE DESPAIR OF HER HEART SHE
 JUMPED DOWN INTO THE WELL THE SAME WAY THE SPINDLE HAD
-GONE.",title="MOTHER HULDA - "THEN THE GIRL WENT BACK AGAIN TO THE WELL NOT KNOWING WHAT TO DO, AND IN THE DESPAIR OF HER HEART SHE JUMPED DOWN INTO THE WELL THE SAME WAY THE SPINDLE HAD GONE.""]
+GONE.&quot;,title="MOTHER HULDA - &quot;THEN THE GIRL WENT BACK AGAIN TO THE WELL NOT KNOWING WHAT TO DO, AND IN THE DESPAIR OF HER HEART SHE JUMPED DOWN INTO THE WELL THE SAME WAY THE SPINDLE HAD GONE.&quot;"]
 
 Then she drew near, and with the baker's peel she took out all the
 loaves one after the other. And she went farther on till she came to a
@@ -7062,10 +7062,10 @@ image:images/illus-193b.jpg[193,title="193"]
 
 '''''
 
-image:images/illus-195.jpg[THE ROBBER BRIDEGROOM - "TURN BACK, TURN
+image:images/illus-195.jpg[THE ROBBER BRIDEGROOM - &quot;TURN BACK, TURN
 BACK, THOU PRETTY BRIDE,/WITHIN THIS HOUSE THOU MUST NOT BIDE,/FOR HERE
 DO EVIL THINGS
-BETIDE.",title="THE ROBBER BRIDEGROOM - "TURN BACK, TURN BACK, THOU PRETTY BRIDE,/WITHIN THIS HOUSE THOU MUST NOT BIDE,/FOR HERE DO EVIL THINGS BETIDE.""]
+BETIDE.&quot;,title="THE ROBBER BRIDEGROOM - &quot;TURN BACK, TURN BACK, THOU PRETTY BRIDE,/WITHIN THIS HOUSE THOU MUST NOT BIDE,/FOR HERE DO EVIL THINGS BETIDE.&quot;"]
 
 '''''
 
@@ -7495,9 +7495,9 @@ she cut her finger, and the blood fell upon the snow.
 "Ah," said the woman, sighing deeply, and looking down at the blood, "if
 only I could have a child as red as blood, and as white as snow!"
 
-image:images/illus-208.jpg[THE ALMOND TREE - "KYWITT, KYWITT, KYWITT, I
+image:images/illus-208.jpg[THE ALMOND TREE - &quot;KYWITT, KYWITT, KYWITT, I
 CRY, OH WHAT A BEAUTIFUL BIRD AM
-I!",title="THE ALMOND TREE - "KYWITT, KYWITT, KYWITT, I CRY, OH WHAT A BEAUTIFUL BIRD AM I!""]
+I!&quot;,title="THE ALMOND TREE - &quot;KYWITT, KYWITT, KYWITT, I CRY, OH WHAT A BEAUTIFUL BIRD AM I!&quot;"]
 
 And as she said these words, her heart suddenly grew light, and she felt
 sure she should have her wish. So she went back to the house, and when a
@@ -8032,10 +8032,10 @@ The king consented, because of the difficulty he was in, and the old
 woman led him into her little house, and there her daughter was sitting
 by the fire.
 
-image:images/illus-222.jpg[THE SIX SWANS - "THE SWANS CAME CLOSE UP TO
-HER WITH RUSHING WINGS; & STOOPED ROUND HER; SO THAT SHE COULD THROW THE
+image:images/illus-222.jpg[THE SIX SWANS - &quot;THE SWANS CAME CLOSE UP TO
+HER WITH RUSHING WINGS; &amp; STOOPED ROUND HER; SO THAT SHE COULD THROW THE
 SHIRTS OVER
-THEM.",title="THE SIX SWANS - "THE SWANS CAME CLOSE UP TO HER WITH RUSHING WINGS; & STOOPED ROUND HER; SO THAT SHE COULD THROW THE SHIRTS OVER THEM.""]
+THEM.&quot;,title="THE SIX SWANS - &quot;THE SWANS CAME CLOSE UP TO HER WITH RUSHING WINGS; &amp; STOOPED ROUND HER; SO THAT SHE COULD THROW THE SHIRTS OVER THEM."quot;"]
 
 She received the king just as if she had been expecting him, and though
 he saw that she was very beautiful, she did not please him, and he could
@@ -8553,10 +8553,10 @@ image:images/illus-237.jpg[237,title="237"]
 
 '''''
 
-image:images/illus-239.jpg[SNOW-WHITE - "Queen thou art of beauty rare,
+image:images/illus-239.jpg[SNOW-WHITE - &quot;Queen thou art of beauty rare,
 But Snow-white living in the glen, With the seven little men, Is a
 thousand times more
-fair.",title="SNOW-WHITE - "Queen thou art of beauty rare, But Snow-white living in the glen, With the seven little men, Is a thousand times more fair.""]
+fair.&quot;,title="SNOW-WHITE - &quot;Queen thou art of beauty rare, But Snow-white living in the glen, With the seven little men, Is a thousand times more fair.&quot"]
 
 '''''
 
@@ -9546,9 +9546,9 @@ man picked it up, and taking it next morning to the king, told him what
 had happened in the night. The king called his council together, and all
 declared that such a feather was worth more than the whole kingdom.
 
-image:images/illus-264.jpg[THE GOLDEN BIRD - "THE FOX SAID, NOW WHAT
+image:images/illus-264.jpg[THE GOLDEN BIRD - &quot;THE FOX SAID, NOW WHAT
 WILL YOU GIVE ME FOR MY
-REWARD?",title="THE GOLDEN BIRD - "THE FOX SAID, NOW WHAT WILL YOU GIVE ME FOR MY REWARD?""]
+REWARD?&quot;,title="THE GOLDEN BIRD - &quot;THE FOX SAID, NOW WHAT WILL YOU GIVE ME FOR MY REWARD?&quot;"]
 
 "Since the feather is so valuable," said the king, "one is not enough
 for me; I must and will have the whole bird."
