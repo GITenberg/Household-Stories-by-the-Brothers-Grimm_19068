@@ -31,6 +31,13 @@ script:
 branches:
   only:
   - master
+notifications:
+  webhooks:
+    urls:
+      - https://unglue.it/api/travisci/webhook
+    on_success: always
+    on_failure: never
+    on_start: never
 deploy:
   skip_cleanup: true
   provider: releases
