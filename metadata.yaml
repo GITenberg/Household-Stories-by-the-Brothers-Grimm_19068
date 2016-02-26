@@ -1,5 +1,5 @@
 _repo: Household-Stories-by-the-Brothers-Grimm_19068
-_version: 0.0.8
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Crane, Walter
@@ -49,5 +49,6 @@ rights_url: http://creativecommons.org/licenses/by-nc/4.0/
 subjects:
 - '!lcsh: Fairy tales -- Germany'
 - '!lcc: PT'
+- GITenberg
 title: Household Stories by the Brothers Grimm
 url: http://www.gutenberg.org/ebooks/19068
