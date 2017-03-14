@@ -1,5 +1,5 @@
 _repo: Household-Stories-by-the-Brothers-Grimm_19068
-_version: 0.2.1
+_version: 0.2.2
 contributor:
   illustrator:
     agent_name: Crane, Walter
@@ -36,6 +36,8 @@ creator:
     gutenberg_agent_id: '971'
     url: http://www.gutenberg.org/2009/agents/971
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19068#Household-Stories-by-the-Brothers-Grimm
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2006-08-17'
 gutenberg_type: Text
